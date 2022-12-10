@@ -15,15 +15,7 @@ nav {
 	background-color: #444343;
     width: 100%;
 }
-nav .logo {
-	float: left;
-	width: 40%;
-	height: 100%;
-	display: flex;
-	align-items: center;
-	font-size: 24px;
-	color: #fff;
-}
+
 nav .links {
 	float: right;
 	padding: 0;
