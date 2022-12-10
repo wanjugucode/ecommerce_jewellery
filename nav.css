@@ -33,14 +33,14 @@ nav .links {
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
+	margin-top: 1.8%;
 }
 nav .links li {
 	list-style: none;
-	margin-top: 5%;
 }
 nav .links a {
 	display: block;
-	padding: 1%;
+	padding:2%;
 	font-size: 16px;
 	font-weight: bold;
 	color: #fff;
@@ -50,7 +50,6 @@ nav .links a {
 	width: max-content;
 	padding: 13px 25px;
 	background: #a15556;
-	
 	border: 1px solid #e3e3e3;
 	border-radius: 17px;
 	box-sizing: border-box;
@@ -132,7 +131,7 @@ nav .icon-burger .line {
         padding: 0 5%;
         height: 50px;
 		background: #444343;
-		width:1%;
+		width:0.5%;
 		
         
     }
